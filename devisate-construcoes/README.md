@@ -5,4 +5,4 @@
 - Repositório GitHub: _[este repositório]_
 
 ## Equipe
-_[adicionar nomes da equipe]_
+_[Maria Eduarda Durães Cruz Mesquita e Maria Eduarda Rangel Sousa]_
