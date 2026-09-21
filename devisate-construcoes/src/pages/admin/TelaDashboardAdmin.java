@@ -8,11 +8,6 @@ import java.awt.*;
 
 /**
  * Tela 12 - Dashboard com indicadores (RF21, RF22).
- * Ponto de partida da Área Administrativa; as demais telas do admin
- * (cadastro de usuários, categorias, equipamentos, aprovação de
- * agendamentos, retirada/devolução, manutenções, relatórios, tarifas)
- * seguem neste mesmo pacote (com.devisate.telas.admin).
- */
 public class TelaDashboardAdmin extends JFrame {
 
     private final Usuario usuarioLogado;
